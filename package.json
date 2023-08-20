@@ -1,0 +1,19 @@
+{
+  "name": "gaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-CommerceGameSite/Gaming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-CommerceGameSite/Gaming/issues"
+  },
+  "homepage": "https://github.com/E-CommerceGameSite/Gaming#readme"
+}
